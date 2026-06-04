@@ -1,0 +1,4 @@
+Create the following folders to save outputs:
+
+- `RecTom/` – for RecToM evaluation results  
+- `SocialAct/` – for SocialAct evaluation results
