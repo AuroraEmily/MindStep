@@ -45,7 +45,7 @@ python generate_socialact_actions.py \
     --topic Covid \
     --method MindStep \
     --num_samples 1000
-# Evaluate results (object/type/content accuracy & F1)
+# Evaluate results
 python evaluate_socialact_actions.py
 ```
 
